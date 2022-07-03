@@ -1,0 +1,495 @@
+body {
+    background-image: url(imagens/wallpaperbetter.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+vermelho {
+    color: red;
+}
+
+verde {
+    color: green;
+}
+
+azul {
+    color: blue;
+}
+
+laranja {
+    color: orangered;
+}
+
+form {
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+input {
+    padding: 10px;
+    font-size: .9rem;
+    margin-bottom: 40px;
+}
+
+form label {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: .8rem;
+}
+
+img {
+    margin-left: 15px;
+}
+
+.margin {
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+.log {
+    width: 80px;
+    height: 80px;
+    border: none;
+}
+
+.tit {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 8px;
+}
+
+.div1 {
+    border: 5px solid rgb(48, 48, 48);
+    border-style: ridge;
+    background: rgba(255, 255, 255, 0.863);
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding: 50px;
+
+}
+
+.img6 {
+    width: 830px;
+    height: 550px;
+}
+
+.maca {
+    text-align: center;
+    color: rgb(90, 63, 29);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.sub-tit {
+    font-family: fantasy;
+    color: rgb(90, 63, 29);
+    text-align: center;
+}
+
+.sub-title {
+    font-size: 2rem;
+    font-family: fantasy;
+    color: rgb(109, 163, 112);
+}
+
+.title {
+    font-size: 3rem;
+}
+
+.p1 {
+    margin-left: 10px;
+    margin-right: 8px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+.amea {
+    color: rgb(32, 99, 99);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 10px;
+    text-align: center;
+
+
+}
+
+.tabela {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 10px;
+    text-align: center;
+    color: rgb(32, 99, 99);
+}
+
+table {
+    border-collapse: collapse;
+    margin: auto;
+    font-size: 20px;
+}
+
+.table,
+th,
+td {
+    border: 1px solid black;
+    text-align: center;
+}
+
+th {
+    font-weight: bold;
+    text-align: center;
+    color: black
+}
+
+td {
+    background-color: #fff;
+    color: rgb(0, 0, 0);
+}
+
+th,
+td {
+    padding: 10px;
+    width: 350px;
+}
+
+td:hover {
+    background-color: rgb(32, 99, 99);
+    color: #fff
+}
+
+
+.linha {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.map {
+    margin-left: 110px;
+    border: 2px solid black;
+}
+
+.sub-tit1 {
+    color: rgb(40, 40, 90);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+.ara {
+    color: rgb(41, 41, 117);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+.img1 {
+    border: 2px solid black;
+}
+
+.veado {
+    color: rgb(90, 129, 11);
+    font-family: fantasy;
+    text-align: center;
+}
+
+.marg {
+    padding-left: 85px;
+    padding-right: 85px;
+}
+
+.marg2 {
+    padding-top: 50px;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
+.carousel-inner img {
+    height: 775px;
+}
+
+.TB {
+    color: darkgoldenrod;
+    font-family: fantasy;
+    text-align: center;
+}
+
+.img2 {
+    border: 2px solid black;
+}
+
+.DK {
+    color: rgb(24, 46, 22);
+    font-family: fantasy;
+    text-align: center;
+}
+
+.tam {
+    width: 200px;
+    height: 160px;
+}
+
+.div2 {
+    border: 5px solid rgb(0, 0, 0);
+    border-style: ridge;
+    background: rgba(255, 255, 255, 0.747);
+    border-radius: 10px;
+    margin-left: 450px;
+    margin-right: 450px;
+}
+
+.p2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.card20 {
+    background-color: #ffffff80;
+    padding: 30px;
+    border-radius: 4%;
+    box-shadow: 3px 3px 1px 0px #0c1a58;
+    width: 400px;
+}
+
+.cadastre {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #0d009c
+}
+
+.label-float input {
+    width: 100%;
+    padding: 5px 5px;
+    display: inline-block;
+    border: 0;
+    border-bottom: 2px solid #0d009c;
+    background-color: transparent;
+    outline: none;
+    min-width: 180px;
+    font-size: 16px;
+    transition: all .3s ease-out;
+    border-radius: 0;
+
+}
+
+.label-float {
+    position: relative;
+    padding-top: 13px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.label-float input:focus {
+    border-bottom: 2px solid #4038a0;
+}
+
+.label-float label {
+    color: #0d009c;
+    pointer-events: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 13px;
+    transition: all .3s ease-out;
+}
+
+.label-float input:focus+label,
+.label-float input:valid+label {
+    font-size: 13px;
+    margin-top: 0;
+    color: #4038a0
+}
+
+
+button {
+    background-color: transparent;
+    border-color: #0d009c;
+    color: #0d009c;
+    padding: 7px;
+    font-weight: bold;
+    font-size: 12pt;
+    margin-top: 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    outline: none;
+    transition: all .4s ease-out;
+}
+
+button:hover {
+    background-color: #0d009cbd;
+    color: rgb(255, 255, 255);
+}
+
+.justify-center {
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.p1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.fa-eye {
+    position: absolute;
+    top: 15px;
+    right: 10px;
+    cursor: pointer;
+    color: #0d009c;
+}
+
+.div1 {
+    padding-left: 100px;
+}
+
+.bord {
+    border-left: 1px solid black;
+}
+
+.sub {
+    border: none;
+}
+
+.sub:hover {
+    border-bottom: 1px solid white;
+}
+
+.img4,
+.img5 {
+    width: 950px;
+}
+
+.img5 {
+    height: 630px;
+}
+
+.tit {
+    font-size: 3rem;
+}
+
+body img {
+    border: 1px solid black;
+}
+
+@media (min-width: 320px) {
+    .sub-tit {
+        font-size: 3rem;
+    }
+
+    ul li {
+        font-size: 1.8rem;
+    }
+
+    .p1 {
+        font-size: 2rem;
+    }
+
+    .carousel-inner img {
+        height: 650px;
+    }
+
+    .marg2 {
+        padding: 0;
+    }
+
+    #div666 {
+        padding-left: 100px;
+    }
+
+    #corpo {
+        margin-top: 120px;
+    }
+
+    #foto_animal {
+        height: 320px;
+        width: 530px;
+    }
+
+    #mapa_animal {
+        height: 350px;
+        width: 400px;
+    }
+
+    #mapa_animal2 {
+        height: 350px;
+        width: 400px;
+    }
+
+    #foto_dragao {
+        height: 350px;
+        width: 450px;
+    }
+}
+
+@media (min-width: 760px) {
+    .sub-tit {
+        font-size: 3.2rem;
+    }
+
+    ul li {
+        font-size: 2rem;
+    }
+
+    .p1 {
+        font-size: 2.2rem;
+    }
+
+    #mapa_animal {
+        width: 320px;
+    }
+
+    #mapa_animal2 {
+        width: 350px;
+        height: 370px;
+    }
+}
+
+@media (min-width: 1440px) {
+    .sub-tit {
+        font-size: 3.4rem;
+    }
+
+    ul li {
+        font-size: 2.2rem;
+    }
+
+    .p1 {
+        font-size: 2.4rem;
+    }
+
+    #div666 {
+        padding-left: 300px;
+    }
+
+    #foto_animal {
+        width: 730px;
+        height: 450px;
+    }
+
+    #mapa_animal,
+    #mapa_animal2 {
+        width: 450px;
+        height: 550px;
+    }
+
+    #mapa_animal2 {
+        height: 500px;
+    }
+}
+
+@media (min-width: 1500px) {
+
+    ul li {
+        font-size: 1.3rem;
+    }
+
+    .sub-tit {
+        font-size: 2rem;
+    }
+
+    .p1 {
+        font-size: 1.5rem;
+    }
+
+    #div666 {
+        padding-left: 530px;
+    }
+}
